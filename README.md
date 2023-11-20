@@ -1,5 +1,5 @@
 # Notive
-Taking notes is an important way for people to record information they want to retain. Note It! make it easier to store notes with its simplistic UI and the user is able to manage the notes easily according to the priority number.
+Taking notes is an important way for people to record information they want to retain. Notive! make it easier to store notes with its simplistic UI and the user is able to manage the notes easily according to the priority number.
 
 ## 📷 Screen Shots
 <img src="https://user-images.githubusercontent.com/94643962/213021896-28938716-eb6f-4e9f-8586-9d8fcacde006.jpeg" width="200" height="400"/>
